@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FacebookTimeline</string>
+    <string name="user_name">User name</string>
+    <string name="http_unblast_com_color_schemes">http://unblast.com/color-schemes</string>
+    <string name="comment">Comment</string>
+    <string name="share">Share</string>
+    <string name="like">Like</string>
+</resources>
